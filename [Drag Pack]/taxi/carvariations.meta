@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+<Item>
+	<modelName>taxi6</modelName>
+	<colors>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		4
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		4
+		</indices>
+		<liveries />
+	</Item>			
+	</colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+	<windowsWithExposedEdges />
+	<plateProbabilities>
+	<Probabilities>
+	<Item>
+		<Name>Medallion 1</Name>
+		<Value value="100" />		
+	</Item>
+	</Probabilities>
+	</plateProbabilities>
+	<lightSettings value="0" />
+	<sirenSettings value="0" />
+</Item>
+<Item>
+	<modelName>taxi2</modelName>
+	<colors>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		4
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		4
+		</indices>
+		<liveries />
+	</Item>	
+	<Item>
+		<indices content="char_array">
+		89
+		5
+		0	
+		5
+		4
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		111
+		</indices>
+		<liveries />
+	</Item>		
+	</colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+	<windowsWithExposedEdges />
+	<plateProbabilities>
+	<Probabilities>
+	<Item>
+		<Name>Medallion 1</Name>
+		<Value value="100" />		
+	</Item>
+	</Probabilities>
+	</plateProbabilities>
+	<lightSettings value="0" />
+	<sirenSettings value="0" />
+</Item>
+<Item>
+	<modelName>taxi3</modelName>
+	<colors>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		0
+		4
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>		
+	</colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+	<windowsWithExposedEdges />
+	<plateProbabilities>
+	<Probabilities>
+	<Item>
+		<Name>Medallion 2</Name>
+		<Value value="5" />
+	</Item>
+	<Item>
+		<Name>Medallion 1</Name>
+		<Value value="95" />		
+	</Item>
+	</Probabilities>
+	</plateProbabilities>
+	<lightSettings value="0" />
+	<sirenSettings value="0" />
+</Item>
+<Item>
+	<modelName>taxi4</modelName>
+	<colors>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		4
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		89
+		0
+		0	
+		5
+		4
+		</indices>
+		<liveries />
+	</Item>
+	</colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+	<windowsWithExposedEdges />
+	<plateProbabilities>
+	<Probabilities>
+	<Item>
+		<Name>Medallion 1</Name>
+		<Value value="100" />		
+	</Item>
+	</Probabilities>
+	</plateProbabilities>
+	<lightSettings value="0" />
+	<sirenSettings value="0" />
+</Item>
+<Item>
+	<modelName>taxi5</modelName>
+	<colors>
+	<Item>
+		<indices content="char_array">
+		89
+		156
+		156	
+		156
+		</indices>
+		<liveries />
+	</Item>
+	</colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+	<windowsWithExposedEdges />
+	<plateProbabilities>
+	<Probabilities>
+	<Item>
+		<Name>Medallion 2</Name>
+		<Value value="5" />
+	</Item>
+	<Item>
+		<Name>Medallion 1</Name>
+		<Value value="95" />		
+	</Item>
+	</Probabilities>
+	</plateProbabilities>
+	<lightSettings value="0" />
+	<sirenSettings value="0" />
+</Item>
+  </variationData>
+</CVehicleModelInfoVariation>
